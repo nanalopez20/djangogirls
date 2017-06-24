@@ -25,7 +25,7 @@ SECRET_KEY = 'kt-ygvhjm6obpgluzld5sw(w$&6_rxu)rdw8n@c_z^4u_^da^a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nanalopezp.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nanalopezp.pythonanywhere.com']
 
 
 # Application definition
